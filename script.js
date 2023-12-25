@@ -244,6 +244,7 @@ function moveEnemy(enemy) {
 		isBoom(gamer);
 		isBoom1(gamer);
 		isBoom2(gamer);
+		isBoom3(gamer);
 
 	}, 30);
 }
